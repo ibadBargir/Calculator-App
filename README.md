@@ -1,4 +1,4 @@
-# Calculator-App# Calculator App
+# Calculator App
 
 This is a simple calculator application built using Java with Swing for the graphical user interface (GUI). The application allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
 
